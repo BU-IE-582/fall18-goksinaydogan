@@ -11,3 +11,7 @@
 ## Homework 4
 
 [here](files/homework4.html) is my homework 4
+
+## Bonus homework
+
+[here](files/bonus.pdf) is my bonus homework as pdf file (due to some errors).
