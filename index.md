@@ -15,3 +15,8 @@
 ## Bonus homework
 
 [here](files/bonus.pdf) is my bonus homework as pdf file (due to some errors).
+
+## Bonus homework in two parts
+
+[here](files/bonus1.html)
+[here](files/bonus2.html) are my bonus homework in 2 parts. In 2 parts because only this way Rstudio knitted.
