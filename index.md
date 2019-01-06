@@ -20,3 +20,7 @@
 
 [here](files/bonus1.html)
 [here](files/bonus2.html) are my bonus homework in 2 parts. In 2 parts because only this way Rstudio knitted.
+
+## Homework 4
+
+[here](files/homework5.html) is my homework 5
